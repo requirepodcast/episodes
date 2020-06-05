@@ -1,11 +1,11 @@
 ---
-title: require(#3) - CSS Tooling
-shortDescription: Kolejny odcinek Require Podcast, a w nim: najpopularniejsze metodyki CSS, najlepsze preprocessory, którym warto poświęcić uwagę, jak i ciekawe frameworki i biblioteki komponentów - a wszystko to, by ulepszyć style naszych projektów.
-publicationDate: 2020-04-07
-audioUrl: https://anchor.fm/s/139df89c/podcast/play/12129340/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2F2020-3-7%2F62525923-44100-2-8dad4aea8a583.mp3
-spotifyUrl: https://open.spotify.com/episode/034YZy9GhRDiHRsDFnQh4a?si=ickILovjSXCiNBz4kOW-fw
-youtubeUrl: https://youtu.be/y-ClHNjlq_U
-slug: /3/css-tooling
+title: 'require(#3) - CSS Tooling'
+shortDescription: 'Kolejny odcinek Require Podcast, a w nim: najpopularniejsze metodyki CSS, najlepsze preprocessory, którym warto poświęcić uwagę, jak i ciekawe frameworki i biblioteki komponentów - a wszystko to, by ulepszyć style naszych projektów.'
+publicationDate: '2020-04-07'
+audioUrl: 'https://anchor.fm/s/139df89c/podcast/play/12129340/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2F2020-3-7%2F62525923-44100-2-8dad4aea8a583.mp3'
+spotifyUrl: 'https://open.spotify.com/episode/034YZy9GhRDiHRsDFnQh4a?si=ickILovjSXCiNBz4kOW-fw'
+youtubeUrl: 'https://youtu.be/y-ClHNjlq_U'
+slug: '/3/css-tooling'
 ---
 
 Kolejny odcinek Require Podcast, a w nim: najpopularniejsze metodyki CSS, najlepsze preprocessory, którym warto poświęcić uwagę, jak i ciekawe frameworki i biblioteki komponentów - a wszystko to, by ulepszyć style naszych projektów. Tradycyjnie zapraszamy do przesłuchania segmentu szybkich nowości, oraz tego, czego nauczyliśmy się w zeszłym tygodniu.

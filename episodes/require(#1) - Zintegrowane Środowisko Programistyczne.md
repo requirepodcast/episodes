@@ -1,16 +1,16 @@
 ---
-title: require(#1) - Zintegrowane Środowisko Programistyczne
-shortDescription: Pierwszy pełnoprawny odcinek Require Podcast! Dzisiaj Adam i Artur porównają nasze ulubione IDE, opowiedzą o najciekawszych rozszerzeniach do Visual Studio Code i zaprezentują swoje sekretne sposoby na usprawnienie pracy z kodem.
-publicationDate: 2020-03-23
-audioUrl: https://anchor.fm/s/139df89c/podcast/play/11435756/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2F2020-2-23%2F58452863-44100-2-af1e6eb61ed5.mp3
-spotifyUrl: https://open.spotify.com/episode/0b7TanCo8cScd4VLznzyog?si=EoWy6TmpRWOKsV4cuh3BuQ
-youtubeUrl: https://youtu.be/6qVudU5nzBw
-slug: /1/zintegrowane-srodowisko-programistyczne
+title: 'require(#1) - Zintegrowane Środowisko Programistyczne'
+shortDescription: 'Pierwszy pełnoprawny odcinek Require Podcast! Dzisiaj Adam i Artur porównają nasze ulubione IDE, opowiedzą o najciekawszych rozszerzeniach do Visual Studio Code i zaprezentują swoje sekretne sposoby na usprawnienie pracy z kodem.'
+publicationDate: '2020-03-23'
+audioUrl: 'https://anchor.fm/s/139df89c/podcast/play/11435756/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2F2020-2-23%2F58452863-44100-2-af1e6eb61ed5.mp3'
+spotifyUrl: 'https://open.spotify.com/episode/0b7TanCo8cScd4VLznzyog?si=EoWy6TmpRWOKsV4cuh3BuQ'
+youtubeUrl: 'https://youtu.be/6qVudU5nzBw'
+slug: '/1/zintegrowane-srodowisko-programistyczne'
 ---
 
 Pierwszy pełnoprawny odcinek Require Podcast! Dzisiaj Adam i Artur porównają nasze ulubione IDE, opowiedzą o najciekawszych rozszerzeniach do Visual Studio Code i zaprezentują swoje sekretne sposoby na usprawnienie pracy z kodem. Jeżeli chcesz jak najsprawniej edytować swój kod, to z pewnością znajdziesz tu coś dla siebie.
 
-# Szybkie nowości
+## Szybkie nowości
 
 - https://socialdistancing.works/
 - https://www.gatsbyjs.org/blog/2020-03-20-dropping-support-for-node-8/

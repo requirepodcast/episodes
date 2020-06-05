@@ -1,11 +1,11 @@
 ---
-title: require(#5) - Interfejs Wiersza Poleceń
-shortDescription: W tym odcinku opowiadamy o ciekawych narzędziach do personalizacji i konfiguracji wiersza poleceń na Windowsie, Linuxie i Maku.
-publicationDate: 2020-04-20
-audioUrl: https://anchor.fm/s/139df89c/podcast/play/12620266/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2F2020-3-19%2F65768575-44100-2-40bf9eb2d672c.mp3
-spotifyUrl: https://open.spotify.com/episode/0OPF7eZexe7VGeRDW0w16H?si=8w-QCo4AS6uGiyPK2McAeQ
-youtubeUrl: https://youtu.be/dW4dNvN4aYM
-slug: /5/interfejs-wiersza-polecen
+title: 'require(#5) - Interfejs Wiersza Poleceń'
+shortDescription: 'W tym odcinku opowiadamy o ciekawych narzędziach do personalizacji i konfiguracji wiersza poleceń na Windowsie, Linuxie i Maku.'
+publicationDate: '2020-04-20'
+audioUrl: 'https://anchor.fm/s/139df89c/podcast/play/12620266/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2F2020-3-19%2F65768575-44100-2-40bf9eb2d672c.mp3'
+spotifyUrl: 'https://open.spotify.com/episode/0OPF7eZexe7VGeRDW0w16H?si=8w-QCo4AS6uGiyPK2McAeQ'
+youtubeUrl: 'https://youtu.be/dW4dNvN4aYM'
+slug: '/5/interfejs-wiersza-polecen'
 ---
 
 W tym odcinku opowiadamy o ciekawych narzędziach do personalizacji i konfiguracji wiersza poleceń na Windowsie, Linuxie i Maku.
