@@ -4,7 +4,7 @@ shortDescription: "Gatsby.js podbił rynek frontendu - jest niesamowicie wydajny
 publicationDate: "2020-06-08"
 audioUrl: "https://anchor.fm/s/139df89c/podcast/play/14909764/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2F2020-5-8%2F80559771-48000-2-37cf37f6cbd5b.mp3"
 spotifyUrl: "https://open.spotify.com/episode/7x5aOr2677ckP4kOABSqjO"
-youtubeUrl: "https://www.youtube.com/channel/UCec_mTVjUKQAsSilMJ3J1TQ"
+youtubeUrl: "https://www.youtube.com/watch?v=MBkqiXNnxe4"
 slug: "/12/wielki-gatsby"
 ---
 
