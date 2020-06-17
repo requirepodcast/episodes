@@ -19,10 +19,5 @@
   "homepage": "https://github.com/requirepodcast/episodes#readme",
   "scripts": {
     "lint": "prettier ./episodes/* --write"
-  },
-  "husky": {
-    "hooks": {
-      "pre-commit": "npm run lint"
-    }
   }
 }
