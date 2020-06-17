@@ -1,11 +1,11 @@
 ---
-title: 'require(#7) - Artur tłumaczy - Discord jako platforma dla devów'
-shortDescription: 'Discord to jeden z największych komunikatorów internetowych w ostatnich latach. Początkowo przeznaczony dla graczy, obecnie zdobywa sobie coraz większe uznanie wśród programistów dzięki jego otwartemu API, co pozwala rozszerzać go jak tylko chcemy.'
-publicationDate: '2020-05-04'
-audioUrl: 'https://anchor.fm/s/139df89c/podcast/play/13229181/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2F2020-4-3%2F69757402-44100-2-3bc46ef054bef.mp3'
-spotifyUrl: 'https://open.spotify.com/episode/7GwiTW74eVdFneTDvLqIwr'
-youtubeUrl: 'https://youtu.be/eJe0molWSnE'
-slug: '/7/artur-tlumaczy-discord-jako-platforma-dla-devow'
+title: "require(#7) - Artur tłumaczy - Discord jako platforma dla devów"
+shortDescription: "Discord to jeden z największych komunikatorów internetowych w ostatnich latach. Początkowo przeznaczony dla graczy, obecnie zdobywa sobie coraz większe uznanie wśród programistów dzięki jego otwartemu API, co pozwala rozszerzać go jak tylko chcemy."
+publicationDate: "2020-05-04"
+audioUrl: "https://anchor.fm/s/139df89c/podcast/play/13229181/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2F2020-4-3%2F69757402-44100-2-3bc46ef054bef.mp3"
+spotifyUrl: "https://open.spotify.com/episode/7GwiTW74eVdFneTDvLqIwr"
+youtubeUrl: "https://youtu.be/eJe0molWSnE"
+slug: "/7/artur-tlumaczy-discord-jako-platforma-dla-devow"
 ---
 
 Discord to jeden z największych komunikatorów internetowych w ostatnich latach. Początkowo przeznaczony dla graczy, obecnie zdobywa sobie coraz większe uznanie wśród programistów dzięki jego otwartemu API, co pozwala rozszerzać go jak tylko chcemy.

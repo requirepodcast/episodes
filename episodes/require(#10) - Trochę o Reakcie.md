@@ -1,11 +1,11 @@
 ---
-title: 'require(#10) - Trochę o Reakcie'
-shortDescription: 'React w 2013 zrewolucjonizował rynek front-endu i do dziś jest na szczycie. W tym odcinku rozmawiamy na temat podstawowych założeń Reacta, zasad które nim kierują i o technikach które warto stosować podczas budowania aplikacji w Reakcie.'
-publicationDate: '2020-05-24'
-audioUrl: 'https://anchor.fm/s/139df89c/podcast/play/14208917/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2F2020-4-25%2F76415015-44100-2-7e03f531d1e6a.mp3'
-spotifyUrl: 'https://open.spotify.com/episode/0euoGywphXCoIjtO9mmI1s?si=1RP6By5hTZuVHanht6KPSg/'
-youtubeUrl: 'https://youtu.be/aZ2dNq_PS7M'
-slug: '/10/troche-o-reakcie'
+title: "require(#10) - Trochę o Reakcie"
+shortDescription: "React w 2013 zrewolucjonizował rynek front-endu i do dziś jest na szczycie. W tym odcinku rozmawiamy na temat podstawowych założeń Reacta, zasad które nim kierują i o technikach które warto stosować podczas budowania aplikacji w Reakcie."
+publicationDate: "2020-05-24"
+audioUrl: "https://anchor.fm/s/139df89c/podcast/play/14208917/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2F2020-4-25%2F76415015-44100-2-7e03f531d1e6a.mp3"
+spotifyUrl: "https://open.spotify.com/episode/0euoGywphXCoIjtO9mmI1s?si=1RP6By5hTZuVHanht6KPSg/"
+youtubeUrl: "https://youtu.be/aZ2dNq_PS7M"
+slug: "/10/troche-o-reakcie"
 ---
 
 React w 2013 zrewolucjonizował rynek front-endu i do dziś jest na szczycie. W tym odcinku rozmawiamy na temat podstawowych założeń Reacta, zasad które nim kierują i o technikach które warto stosować podczas budowania aplikacji w Reakcie.

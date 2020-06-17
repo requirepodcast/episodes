@@ -1,11 +1,11 @@
 ---
-title: 'require(#0) - Intro'
-shortDescription: 'Pilotażowy odcinek Require Podcast. Nieco krótszy, w którym opowiadamy między innymi o naszych planach na przyszłość, oraz omawiamy nowy update Visual Studio Code, jak i rozmawiamy o koronawirusie przez pryzmat webdevelopmentu.'
-publicationDate: '2020-03-13'
-audioUrl: 'https://anchor.fm/s/139df89c/podcast/play/11061759/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2F2020-2-13%2F56369055-48000-2-8cac931857ce1.mp3'
-spotifyUrl: 'https://open.spotify.com/episode/6GkUnfHL3c8Tbl98z8RmAu?si=5tBa0osARimMv93lZ2cNiQ'
-youtubeUrl: 'https://youtu.be/aHADKxEGa6s'
-slug: '/0/intro'
+title: "require(#0) - Intro"
+shortDescription: "Pilotażowy odcinek Require Podcast. Nieco krótszy, w którym opowiadamy między innymi o naszych planach na przyszłość, oraz omawiamy nowy update Visual Studio Code, jak i rozmawiamy o koronawirusie przez pryzmat webdevelopmentu."
+publicationDate: "2020-03-13"
+audioUrl: "https://anchor.fm/s/139df89c/podcast/play/11061759/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2F2020-2-13%2F56369055-48000-2-8cac931857ce1.mp3"
+spotifyUrl: "https://open.spotify.com/episode/6GkUnfHL3c8Tbl98z8RmAu?si=5tBa0osARimMv93lZ2cNiQ"
+youtubeUrl: "https://youtu.be/aHADKxEGa6s"
+slug: "/0/intro"
 ---
 
 Pilotażowy odcinek Require Podcast. Nieco krótszy, w którym opowiadamy między innymi o naszych planach na przyszłość, oraz omawiamy nowy update Visual Studio Code, jak i rozmawiamy o koronawirusie przez pryzmat webdevelopmentu.

@@ -1,0 +1,28 @@
+{
+  "name": "requirepodcast-episodes",
+  "version": "1.0.0",
+  "description": "Episodes archive for our podcast",
+  "dependencies": {},
+  "devDependencies": {
+    "husky": "^4.2.5",
+    "prettier": "^2.0.5"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/requirepodcast/episodes.git"
+  },
+  "author": "Require Podcast",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/requirepodcast/episodes/issues"
+  },
+  "homepage": "https://github.com/requirepodcast/episodes#readme",
+  "scripts": {
+    "lint": "prettier ./episodes/* --write"
+  },
+  "husky": {
+    "hooks": {
+      "pre-commit": "npm run lint"
+    }
+  }
+}

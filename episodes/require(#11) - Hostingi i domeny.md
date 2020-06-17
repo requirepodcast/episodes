@@ -1,11 +1,11 @@
 ---
-title: 'require(#11) - Hostingi i domeny'
-shortDescription: 'Chcąc wypuścić aplikację internetową na światło dzienne, musimy zapewnić hosting - usługę, która zajmie się stałym udostępnianiem zasobów naszej strony. W tym odcinku porównamy różne rodzaje i dostawców hostingu oraz porozmawiamy o domenach.'
-publicationDate: '2020-06-01'
-audioUrl: 'https://anchor.fm/s/139df89c/podcast/play/14552640/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2F2020-4-31%2F78330169-44100-2-64b6aecd1499c.mp3'
-spotifyUrl: 'https://open.spotify.com/episode/75qD9ohORMwQucpHCJykUR?si=Kh_VLOOQRWSberVJRMKqAg'
-youtubeUrl: 'https://youtu.be/S7oW1-tTsmk'
-slug: '/11/hostingi-i-domeny'
+title: "require(#11) - Hostingi i domeny"
+shortDescription: "Chcąc wypuścić aplikację internetową na światło dzienne, musimy zapewnić hosting - usługę, która zajmie się stałym udostępnianiem zasobów naszej strony. W tym odcinku porównamy różne rodzaje i dostawców hostingu oraz porozmawiamy o domenach."
+publicationDate: "2020-06-01"
+audioUrl: "https://anchor.fm/s/139df89c/podcast/play/14552640/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2F2020-4-31%2F78330169-44100-2-64b6aecd1499c.mp3"
+spotifyUrl: "https://open.spotify.com/episode/75qD9ohORMwQucpHCJykUR?si=Kh_VLOOQRWSberVJRMKqAg"
+youtubeUrl: "https://youtu.be/S7oW1-tTsmk"
+slug: "/11/hostingi-i-domeny"
 ---
 
 Chcąc wypuścić aplikację internetową na światło dzienne, musimy zapewnić hosting - usługę, która zajmie się stałym udostępnianiem zasobów naszej strony. W tym odcinku porównamy różne rodzaje i dostawców hostingu oraz porozmawiamy o domenach.

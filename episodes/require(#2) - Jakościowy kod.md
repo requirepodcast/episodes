@@ -1,11 +1,11 @@
 ---
-title: 'require(#2) - Jakościowy kod'
-shortDescription: 'W kolejnym odcinku Require Podcast, Adam i Artur przedstawią narzędzia umożliwiające pisać lepszy jakościowo kod, oraz omówią podstawy i cele tworzenia testów jednostkowych. '
-publicationDate: '2020-03-31'
-audioUrl: 'https://anchor.fm/s/139df89c/podcast/play/11823343/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2F2020-2-31%2F60616907-44100-2-73f4ebee39da4.mp3'
-spotifyUrl: 'https://open.spotify.com/episode/1fiD4405vkFtacqHodYZya?si=9ADgsx1pRY6RinqKM74WAQ'
-youtubeUrl: 'https://youtu.be/2u85N_VF054'
-slug: '/2/jakosciowy-kod'
+title: "require(#2) - Jakościowy kod"
+shortDescription: "W kolejnym odcinku Require Podcast, Adam i Artur przedstawią narzędzia umożliwiające pisać lepszy jakościowo kod, oraz omówią podstawy i cele tworzenia testów jednostkowych. "
+publicationDate: "2020-03-31"
+audioUrl: "https://anchor.fm/s/139df89c/podcast/play/11823343/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2F2020-2-31%2F60616907-44100-2-73f4ebee39da4.mp3"
+spotifyUrl: "https://open.spotify.com/episode/1fiD4405vkFtacqHodYZya?si=9ADgsx1pRY6RinqKM74WAQ"
+youtubeUrl: "https://youtu.be/2u85N_VF054"
+slug: "/2/jakosciowy-kod"
 ---
 
 W kolejnym odcinku Require Podcast, Adam i Artur przedstawią narzędzia umożliwiające pisać lepszy jakościowo kod, oraz omówią podstawy i cele tworzenia testów jednostkowych. Tradycyjnie zapraszamy również do przesłuchania segmentu szybkich nowości i zajrzenia na naszą stronę internetową (a tam - nowa sekcja).
