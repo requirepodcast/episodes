@@ -18,50 +18,59 @@ Najwięcej czasu na naukę programowania mamy w wakacje, a tak się składa że 
 
 ## Linki
 
-- Frontend:
-  - Vue https://vuejs.org
-  - Svelte https://svelte.dev/
-  - Contentful https://contentful.com/
-  - Gatsby https://gatsbyjs.org/
-  - Gridsome https://gridsome.org/
-  - Sapper https://sapper.svelte.dev/
-  - GSAP https://greensock.com/gsap/
-  - Storybook https://storybook.js.org/
-  - Jest https://jestjs.io/
-  - Ava https://github.com/avajs/ava
-  - Cypress https://www.cypress.io/
-- Backend:
-  - GraphQL https://graphql.org/
-  - Apollo https://www.apollographql.com/
-  - express-graphql https://github.com/graphql/express-graphql
-  - Nest.js https://nestjs.com/
-  - Serverless:
-    - Vercel https://vercel.com/docs/v2/serverless-functions/introduction
-    - AWS Lambda https://aws.amazon.com/lambda/
-    - Begin https://begin.com/
-  - Firebase https://firebase.google.com/
-- Więcej z JS'a:
-  - TypeScript https://www.typescriptlang.org/
-  - React Native https://reactnative.dev/
-  - Electron https://www.electronjs.org/
-  - Deno https://deno.land/
-- Skille "półmiękkie":
-  - Poczytać o Scrum
-  - Ciekawe blogi i strony:
-    - https://dribbble.com/
-    - https://uxplanet.org/
-    - https://zebza.net/
-  - Narzędzia:
-    - Figma https://www.figma.com/
-    - Adobe Xd https://www.adobe.com/pl/products/xd.html
-    - Sketch https://www.sketch.com/
-- Coś innego:
-  - Python pod ML i DS:
-    - https://www.python.org/
-    - https://www.tensorflow.org/
-    - https://matplotlib.org/
-  - Go https://golang.org/
-  - Rust https://www.rust-lang.org/
+### Frontend:
+
+- Vue https://vuejs.org
+- Svelte https://svelte.dev/
+- Contentful https://contentful.com/
+- Gatsby https://gatsbyjs.org/
+- Gridsome https://gridsome.org/
+- Sapper https://sapper.svelte.dev/
+- GSAP https://greensock.com/gsap/
+- Storybook https://storybook.js.org/
+- Jest https://jestjs.io/
+- Ava https://github.com/avajs/ava
+- Cypress https://www.cypress.io/
+
+### Backend:
+
+- GraphQL https://graphql.org/
+- Apollo https://www.apollographql.com/
+- express-graphql https://github.com/graphql/express-graphql
+- Nest.js https://nestjs.com/
+- Serverless:
+  - Vercel https://vercel.com/docs/v2/serverless-functions/introduction
+  - AWS Lambda https://aws.amazon.com/lambda/
+  - Begin https://begin.com/
+- Firebase https://firebase.google.com/
+
+### Więcej z JS'a:
+
+- TypeScript https://www.typescriptlang.org/
+- React Native https://reactnative.dev/
+- Electron https://www.electronjs.org/
+- Deno https://deno.land/
+
+### Skille "półmiękkie":
+
+- Poczytać o Scrum
+- Ciekawe blogi i strony:
+  - https://dribbble.com/
+  - https://uxplanet.org/
+  - https://zebza.net/
+- Narzędzia:
+  - Figma https://www.figma.com/
+  - Adobe Xd https://www.adobe.com/pl/products/xd.html
+  - Sketch https://www.sketch.com/
+
+### Coś innego:
+
+- Python pod ML i DS:
+  - https://www.python.org/
+  - https://www.tensorflow.org/
+  - https://matplotlib.org/
+- Go https://golang.org/
+- Rust https://www.rust-lang.org/
 
 ## Fajne rzeczy
 
