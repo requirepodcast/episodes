@@ -1,5 +1,5 @@
 ---
-title: "require(#15) - Czego nauczyć się w wakacje?"
+title: "require(#15) - Tydzień na laptopie z Ubuntu za 1500zł"
 shortDescription: "Przez ostatni tydzień Adam korzystał tylko z laptopa za 1500zł, z zainstalowanym Ubuntu. W tym odcinku podsumowujemy ten eksperyment i porównujemy Linuksa do innych systemów operacyjnych, przez pryzmat webdevelopmentu."
 publicationDate: "2020-06-29"
 audioUrl: "https://anchor.fm/s/139df89c/podcast/play/16011163/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2F2020-6-2%2F87019457-44100-2-613b96523acd9.mp3"
