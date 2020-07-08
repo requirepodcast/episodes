@@ -20,7 +20,7 @@ Aby czuć się pewniej w bardziej zaawansowanych zagadnieniach, trzeba dobrze um
 - Dokumentacja Mozilli https://developer.mozilla.org/pl/docs/Web
 - Walidator HTML'a https://validator.w3.org/
 - BEM http://getbem.com/
-- Seria `hello roman` o przejściach i animacjach w CSS:
+- Seria `hello roman` na temat przejść i animacji w CSS:
   - https://www.youtube.com/watch?v=FNmv5uh3ni4
   - https://www.youtube.com/watch?v=ttQDNroq3LA
   - https://www.youtube.com/watch?v=ZtRvBgVWogo
