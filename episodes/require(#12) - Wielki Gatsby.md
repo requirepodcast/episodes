@@ -43,7 +43,7 @@ Gatsby.js podbił rynek frontendu - jest niesamowicie wydajnym i prostym framewo
   - gatsby-portfolio-dev https://www.gatsbyjs.org/starters/smakosh/gatsby-portfolio-dev/
 - Gatsby Cloud https://www.gatsbyjs.com/
 
-## Fajne rzeczy
+## 🔥 Fajne rzeczy 🔥
 
 - Adam - Swift https://developer.apple.com/swift/
 - Artur - Gatsby Translation https://www.gatsbyjs.org/contributing/translation/

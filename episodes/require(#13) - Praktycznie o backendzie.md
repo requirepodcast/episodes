@@ -56,7 +56,7 @@ W tym odcinku porównujemy różne biblioteki i rozwiązania wymagane do napisan
   - Apollo https://www.apollographql.com/
   - express-graohql https://github.com/graphql/express-graphql **Adam w tym miejscu pomiesał nazwę i nie wiadomo czemu nazwał to Prisma. Za wprowadzenie w błąd prezepraszamy**
 
-## Fajne rzeczy
+## 🔥 Fajne rzeczy 🔥
 
 - Adam - LastPass https://www.lastpass.com/
 - Artur - OneTracker https://onetracker.app/

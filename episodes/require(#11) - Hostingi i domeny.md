@@ -37,7 +37,7 @@ Chcąc wypuścić aplikację internetową na światło dzienne, musimy zapewnić
 - Freenom https://freenom.com
 - Cloudflare https://www.cloudflare.com/
 
-## Fajne rzeczy
+## 🔥 Fajne rzeczy 🔥
 
 - Adam - Docker https://www.docker.com/
 - Artur - Adobe Premiere Pro https://www.adobe.com/pl/products/premiere.html

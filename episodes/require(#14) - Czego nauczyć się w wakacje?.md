@@ -72,7 +72,7 @@ Najwięcej czasu na naukę programowania mamy w wakacje, a tak się składa że 
 - Go https://golang.org/
 - Rust https://www.rust-lang.org/
 
-## Fajne rzeczy
+## 🔥 Fajne rzeczy 🔥
 
 - Adam - https://www.keybr.com/
 - Artur - https://www.npmjs.com/package/react-div-100vh

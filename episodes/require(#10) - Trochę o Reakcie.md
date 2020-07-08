@@ -33,7 +33,7 @@ React w 2013 zrewolucjonizował rynek front-endu i do dziś jest na szczycie. W 
 - Gatsby https://www.gatsbyjs.org/
 - Preact https://preactjs.com/
 
-## Fajne rzeczy
+## 🔥 Fajne rzeczy 🔥
 
 - Adam - https://svelte.dev
 - Artur - https://nextjs.org

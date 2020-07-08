@@ -26,7 +26,7 @@ W tym odcinku rozmawiamy na temat następcy Node.js'a - Deno, które w środę 1
 - Denomander https://deno.land/x/denomander
 - Args https://deno.land/x/args
 
-## Fajne rzeczy
+## 🔥 Fajne rzeczy 🔥
 
 - Adam - https://parcelapp.net/
 - Artur - https://blurha.sh/

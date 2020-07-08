@@ -24,7 +24,7 @@ Przez ostatni tydzień Adam korzystał tylko z laptopa za 1500zł, z zainstalowa
   - https://extensions.gnome.org/extension/307/dash-to-dock/
 - Lenovo S340 https://www.lenovo.com/pl/pl/laptops/ideapad/s-series/Lenovo-IdeaPad-S340-14IWL/p/88IPS301214
 
-## Fajne rzeczy
+## 🔥 Fajne rzeczy 🔥
 
 - Adam - OpenTTD https://www.openttd.org/
 - Artur - Instatus https://instatus.com/
