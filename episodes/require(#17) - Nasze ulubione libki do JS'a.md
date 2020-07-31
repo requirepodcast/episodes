@@ -4,7 +4,7 @@ shortDescription: "Często dodanie pewnej funkcjonalności w kodzie może przysp
 publicationDate: "2020-07-30"
 audioUrl: "https://anchor.fm/s/139df89c/podcast/play/17325540/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2020-6-30%2F16e8c543-086a-cee2-90d8-62aba95bb2e7.mp3"
 spotifyUrl: "https://open.spotify.com/episode/4eAtZLhsDpkSECJVQsSJsX?si=hxAXWUp-Qiuswb8VeD67yA"
-youtubeUrl: "https://www.youtube.com/channel/UCec_mTVjUKQAsSilMJ3J1TQ"
+youtubeUrl: "https://youtu.be/kabin3sABvk"
 slug: "/17/nasze-ulubione-libki-do-jsa"
 ---
 
