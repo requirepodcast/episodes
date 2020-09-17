@@ -4,7 +4,7 @@ shortDescription: "Kolejny odcinek z serii podstaw - tym razem na temat JS'a. Ro
 publicationDate: "2020-09-16"
 audioUrl: "https://anchor.fm/s/139df89c/podcast/play/19706432/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2020-8-16%2F303d1749-fa3d-5138-a9ca-149995e9e891.mp3"
 spotifyUrl: "https://open.spotify.com/episode/3hTTvOzfROv4Z5SkPDtsGO"
-youtubeUrl: "https://www.youtube.com/channel/UCec_mTVjUKQAsSilMJ3J1TQ"
+youtubeUrl: "https://youtu.be/E_Ibo4W-gfE"
 slug: "/19/podstawy-javascript"
 ---
 

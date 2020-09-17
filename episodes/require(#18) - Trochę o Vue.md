@@ -4,7 +4,7 @@ shortDescription: "Vue jest obecnie drugim najpopularniejszym (tuż po React) fr
 publicationDate: "2020-08-24"
 audioUrl: "https://anchor.fm/s/139df89c/podcast/play/18515855/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2020-7-24%2Fb97cb208-0b46-21d4-1d29-3d798fb3a891.mp3"
 spotifyUrl: "https://open.spotify.com/episode/1fH7cYHJNq0rjPB6JXGwE9?si=ltBMtP3FQbSkY7rlyR8Zag"
-youtubeUrl: "https://anchor.fm/s/139df89c/podcast/rss"
+youtubeUrl: "https://youtu.be/TRxYn1DuF-w"
 slug: "/18/troche-o-vue"
 ---
 
