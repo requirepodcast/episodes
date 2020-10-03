@@ -1,6 +1,8 @@
 # Contributing
 
-We greatly appreciate any help in specifying the timestamps for each episode. If you'd like to contribute please do the following:
+This repo is open to your contributions! You can improve the episode notes, links or add some timestamps - we would greatly appreciate any help.
+
+If you'd like to contribute please do the following:
 
 - Find an episode that doesn't yet have timestamps, or is missing some.
 - Fork this repo, clone to your machine.
