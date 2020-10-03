@@ -11,4 +11,4 @@ This repository holds notes, links and timestamps for each podcast episode. The 
 
 ## Contributing
 
-If you wish to contribute timestamps for episodes please refer to [CONTRIBUTING.md](CONTRIBUTING.md).
+This repo is open to contributions, so if you wish to help us with episode notes, links or timestamps, please refer to [CONTRIBUTING.md](CONTRIBUTING.md).
