@@ -4,7 +4,7 @@ shortDescription: "W tym odcinku prezentujemy wybrane przez nas techniki, pozwal
 publicationDate: "2020-10-12"
 audioUrl: "https://anchor.fm/s/139df89c/podcast/play/20990244/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2020-9-12%2F24ff3d1f-0cbf-2e32-ab3d-788db7da55d2.mp3"
 spotifyUrl: "https://open.spotify.com/show/55IXMbPmncm67FA5ZAydtL?si=aXQlmjrpSZu-7IoLkuTTrw"
-youtubeUrl: "https://www.youtube.com/channel/UCec_mTVjUKQAsSilMJ3J1TQ"
+youtubeUrl: "https://www.youtube.com/watch?v=xOBumZMEx_4"
 slug: "/20/tricki-na-optymalizacje-stron"
 ---
 
