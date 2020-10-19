@@ -3,7 +3,7 @@ title: "require(#21) - Nasze początki, nauka i zdobywanie wiedzy feat. hello ro
 shortDescription: "W kolejnym odcinku Require Podcast, w naszych skromnych progach zawitał gość - Adam Romański, autor kanału hello roman. Rozmawiamy o naszych początkach w programowaniu, tym skąd się uczyliśmy, na co trzeba uważać i co warto robić ucząc się kodownictwa. Na pewno nie zabrakło zabawnych sytuacji i przydatnych rad :D"
 publicationDate: "2020-10-19"
 audioUrl: "https://anchor.fm/s/139df89c/podcast/play/21280233/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2020-9-18%2Fa397fbae-c7cc-7086-4d58-fd7fdcc8bcf1.mp3"
-spotifyUrl: "https://open.spotify.com/show/55IXMbPmncm67FA5ZAydtL?si=aXQlmjrpSZu-7IoLkuTTrw"
+spotifyUrl: "https://open.spotify.com/episode/6tm0I10gzwXIJosiCe99CD"
 youtubeUrl: "https://www.youtube.com/watch?v=bZMpdp4HrE8"
 slug: "/21/nasze-poczatki-nauka-zdobywanie-wiedzy"
 ---
