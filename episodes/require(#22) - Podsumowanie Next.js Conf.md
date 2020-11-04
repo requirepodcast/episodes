@@ -1,29 +1,31 @@
 ---
 title: "require(#22) - Podsumowanie Next.js Conf"
-shortDescription: "W kolejnym odcinku Require Podcast, w naszych skromnych progach zawitał gość - Adam Romański, autor kanału hello roman. Rozmawiamy o naszych początkach w programowaniu, tym skąd się uczyliśmy, na co trzeba uważać i co warto robić ucząc się kodownictwa. Na pewno nie zabrakło zabawnych sytuacji i przydatnych rad :D"
-publicationDate: "2020-10-19"
-audioUrl: "https://anchor.fm/s/139df89c/podcast/play/21280233/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2020-9-18%2Fa397fbae-c7cc-7086-4d58-fd7fdcc8bcf1.mp3"
-spotifyUrl: "https://open.spotify.com/episode/6tm0I10gzwXIJosiCe99CD"
-youtubeUrl: "https://www.youtube.com/watch?v=bZMpdp4HrE8"
-slug: "/22/podsumowanie-next.js-Conf"
+shortDescription: "W tym odcinku podsumowujemy dość duże wydarzenie jakim był Next.js Conf, wymieniamy się swoimi przemyśleniami na jego temat oraz omawiamy nowości zaprezentowane podczas prezentacji."
+publicationDate: "2020-11-4"
+audioUrl: "https://anchor.fm/s/139df89c/podcast/play/22089935/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2020-10-4%2Fab98c0fb-d753-64ed-1f83-6ae6491a6917.mp3"
+spotifyUrl: "https://open.spotify.com/show/55IXMbPmncm67FA5ZAydtL"
+youtubeUrl: "https://require.podcast.gq/youtube"
+slug: "/22/podsumowanie-nextjs-conf"
 ---
 
-W kolejnym odcinku Require Podcast, w naszych skromnych progach zawitał gość - Adam Romański, autor kanału hello roman. Rozmawiamy o naszych początkach w programowaniu, tym skąd się uczyliśmy, na co trzeba uważać i co warto robić ucząc się kodownictwa. Na pewno nie zabrakło zabawnych sytuacji i przydatnych rad :D
-
-## Szybkie nowości
-
-- npm v7.0 https://github.blog/2020-10-13-presenting-v7-0-0-of-the-npm-cli/
-- webpack 5 https://webpack.js.org/blog/2020-10-10-webpack-5-release/
-- VSCode September Update https://code.visualstudio.com/updates/v1_50#_linux-arm-builds
+W tym odcinku podsumowujemy dość duże wydarzenie jakim był Next.js Conf, wymieniamy się swoimi przemyśleniami na jego temat oraz omawiamy nowości zaprezentowane podczas prezentacji.
 
 ## Linki i notatki
 
-- **Kanał Romana** https://www.youtube.com/channel/UCq8XmOMtrUCb8FcFHQEd8_g
-- JetBrains Academy https://hyperskill.org/onboarding/
-- Świetny newsletter od Increment https://increment.com/
-- Newslettery od Cooperpress:
-  - Node Weekly https://nodeweekly.com/
-  - JS Weekly https://javascriptweekly.com/
-  - Frontend Focus https://frontendfoc.us/
-  - ...i wiele więcej na https://cooperpress.com/publications/
-- Roadmapy https://roadmap.sh/roadmaps
+- Strona Next.js Conf https://nextjs.org/conf/
+- Next.js 10 https://nextjs.org/blog/next-10
+- Next.js Analytics https://nextjs.org/analytics
+- Google PageSpeed Insights https://developers.google.com/speed/pagespeed/insights/
+- Vercel Analytics Gatsby plugin https://github.com/vercel/gatsby-plugin-vercel
+- Vercel Analytics Nuxt plugin https://github.com/vercel/nuxt-plugin-vercel
+- Zmiany w Gatsby https://www.gatsbyjs.com/blog/gazette-october-2020/
+- Next.js Commerce https://nextjs.org/commerce
+- BigCommerce https://www.bigcommerce.com/
+- Shopify https://www.shopify.com/
+- Next.js limited merch drop https://nextjs.org/give
+
+## Szybkie nowości
+
+- Node v15 https://nodejs.medium.com/node-js-v15-0-0-is-here-deb00750f278
+- Git 2.29 https://github.blog/2020-10-19-git-2-29-released/
+- React v17 https://reactjs.org/blog/2020/10/20/react-v17.html
