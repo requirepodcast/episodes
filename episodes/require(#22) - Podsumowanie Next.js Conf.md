@@ -1,10 +1,10 @@
 ---
 title: "require(#22) - Podsumowanie Next.js Conf"
 shortDescription: "W zeszłym tygodniu odbył się Next.js Conf - konferencja organizowana przez twórców jednego z największych frameworków opartych na React.js, której tematyka koncentrowała się na nowoczesnym frontendzie. W tym odcinku ją podsumowujemy, wymieniamy się swoimi przemyśleniami na jej temat oraz omawiamy nowości zaprezentowane podczas wielu prelekcji."
-publicationDate: "2020-11-4"
+publicationDate: "2020-11-04"
 audioUrl: "https://anchor.fm/s/139df89c/podcast/play/22089935/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2020-10-4%2Fab98c0fb-d753-64ed-1f83-6ae6491a6917.mp3"
 spotifyUrl: "https://open.spotify.com/show/55IXMbPmncm67FA5ZAydtL"
-youtubeUrl: "https://require.podcast.gq/youtube"
+youtubeUrl: "https://www.youtube.com/watch?v=f4os-gcZ35U"
 slug: "/22/podsumowanie-nextjs-conf"
 ---
 
