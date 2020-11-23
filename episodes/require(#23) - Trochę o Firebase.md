@@ -2,8 +2,8 @@
 title: "require(#23) - Trochę o Firebase"
 shortDescription: "Firebase jest bardzo ciekawą usługą od Google, pozwalającą nam tworzyć pełnoprawne aplikacje z backendem... bez pisania ani jednej linijki kodu backendowego. W tym odcinku przyjrzymy się podstawom Firebase i jego głównym częściom."
 publicationDate: "2020-11-23"
-audioUrl: "https://anchor.fm/s/139df89c/podcast/play/22089935/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2020-10-4%2Fab98c0fb-d753-64ed-1f83-6ae6491a6917.mp3"
-spotifyUrl: "https://open.spotify.com/episode/0Oc0kW2XR4m5zSkNYU4r8K"
+audioUrl: "https://anchor.fm/s/139df89c/podcast/play/22996505/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2020-10-23%2F76b1e598-5367-f7ae-8a43-2ae8e4e9e293.mp3"
+spotifyUrl: "https://open.spotify.com/episode/5CtptrYBKl7MRFY9MbVoCl?si=eqKebHN1RSK_cbVxkpAh4w"
 youtubeUrl: "https://www.youtube.com/watch?v=ofzFymyVYTg"
 slug: "/23/troche-o-firebase"
 ---
