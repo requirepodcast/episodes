@@ -8,7 +8,7 @@ youtubeUrl: "https://www.youtube.com/watch?v=ofzFymyVYTg"
 slug: "/23/troche-o-firebase"
 ---
 
-irebase jest bardzo ciekawą usługą od Google, pozwalającą nam tworzyć pełnoprawne aplikacje z backendem... bez pisania ani jednej linijki kodu backendowego. W tym odcinku przyjrzymy się podstawom Firebase i jego głównym częściom.
+Firebase jest bardzo ciekawą usługą od Google, pozwalającą nam tworzyć pełnoprawne aplikacje z backendem... bez pisania ani jednej linijki kodu backendowego. W tym odcinku przyjrzymy się podstawom Firebase i jego głównym częściom.
 
 Oczekujcie również w najbliższym czasie drugiej części odcinka o Firebase, w którym porozmawiamy o rzeczach trochę bardziej "dookoła" samego pisania kodu, takich jak delivery aplikacji, testowanie, reklamy, czy Google Analytics.
 
