@@ -4,7 +4,7 @@ shortDescription: "Firebase jest bardzo ciekawą usługą od Google, pozwalając
 publicationDate: "2020-11-23"
 audioUrl: "https://anchor.fm/s/139df89c/podcast/play/22089935/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2020-10-4%2Fab98c0fb-d753-64ed-1f83-6ae6491a6917.mp3"
 spotifyUrl: "https://open.spotify.com/episode/0Oc0kW2XR4m5zSkNYU4r8K"
-youtubeUrl: "https://www.youtube.com/watch?v=f4os-gcZ35U"
+youtubeUrl: "https://www.youtube.com/watch?v=ofzFymyVYTg"
 slug: "/23/troche-o-firebase"
 ---
 
