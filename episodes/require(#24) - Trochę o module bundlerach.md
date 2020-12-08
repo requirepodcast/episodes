@@ -4,7 +4,7 @@ shortDescription: "Module bundlery to bardzo przydatne narzędzia wchodzące w s
 publicationDate: "2020-12-08"
 audioUrl: "https://anchor.fm/s/139df89c/podcast/play/23693724/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2020-11-8%2F96959065-cc3b-b85b-7cb5-7b48a2076936.mp3"
 spotifyUrl: "https://open.spotify.com/episode/4u7ojiTM8pUJAu4gRAjMxd?si=8f9ddncPQdiQ2PyK6l4pGA"
-youtubeUrl: "https://youtube.com/channel/UCec_mTVjUKQAsSilMJ3J1TQ"
+youtubeUrl: "https://youtu.be/tnTTf61NA8c"
 slug: "/24/troche-o-module-bundlerach"
 ---
 
