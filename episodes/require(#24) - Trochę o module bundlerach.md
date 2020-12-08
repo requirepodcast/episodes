@@ -8,6 +8,8 @@ youtubeUrl: "https://youtube.com/channel/UCec_mTVjUKQAsSilMJ3J1TQ"
 slug: "/24/troche-o-module-bundlerach"
 ---
 
+Module bundlery to bardzo przydatne narzędzia wchodzące w skład niemalże każdej nowoczesnej strony internetowej. Zazwyczaj znajdują się pod spodem innych narzędzi, ale warto się również przyjrzeć im samym. W tym odcinku rozmawiamy o tym czym są, co mogą dla nas zrobić oraz porównujemy najciekawsze z nich.
+
 ## Linki i notatki
 
 ### Czym są module bundlery?
