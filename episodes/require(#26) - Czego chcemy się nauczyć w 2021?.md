@@ -1,7 +1,7 @@
 ---
 title: "require(#26) - Czego chcemy się nauczyć w 2021?"
-shortDescription: "Ucząc się programowania, na początku każdego roku, warto sporządzić listę rzeczy na których chcemy koncentrować się rozwijając swoje umiejętności - pozwoli to spojrzeć na ich obecny stan i zmotywować się w najbliższym roku do nauki nowych rzeczy. Zawsze gdy będziemy planowali czegoś się nauczyć - będziemy już wiedzieć czego. \n\nW tym odcinku dzielimy się naszymi przemyśleniami i planami na najbliższy rok. Czego chcemy się uczyć? Jakie technologie są w naszym gronie zainteresowań? Możecie potraktować ten odcinek jako inspirację dla waszej "listy" - może zaczerpniecie z naszych coś, w czym jeszcze nie czujecie się pewni."
-publicationDate: "2020-01-11"
+shortDescription: "Ucząc się programowania, na początku każdego roku, warto sporządzić listę rzeczy na których chcemy koncentrować się rozwijając swoje umiejętności - pozwoli to spojrzeć na ich obecny stan i zmotywować się w najbliższym roku do nauki nowych rzeczy. Zawsze gdy będziemy planowali czegoś się nauczyć - będziemy już wiedzieć czego. \n\nW tym odcinku dzielimy się naszymi przemyśleniami i planami na najbliższy rok. Czego chcemy się uczyć? Jakie technologie są w naszym gronie zainteresowań? Możecie potraktować ten odcinek jako inspirację dla waszej \"listy\" - może zaczerpniecie z naszych coś, w czym jeszcze nie czujecie się pewni."
+publicationDate: "2021-01-11"
 audioUrl: "https://anchor.fm/s/139df89c/podcast/play/25056483/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-0-11%2F24a3755a-0090-7146-44d6-46dcd57d99f7.mp3"
 spotifyUrl: "https://open.spotify.com/episode/3E0tS9cmgBxpW88v8I5zBR?si=VcNS_dmPRuWZyJJU3ft7bQ"
 youtubeUrl: "https://www.youtube.com/channel/UCec_mTVjUKQAsSilMJ3J1TQ"
