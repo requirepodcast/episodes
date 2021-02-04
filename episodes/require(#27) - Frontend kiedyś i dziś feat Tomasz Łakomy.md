@@ -4,7 +4,7 @@ shortDescription: "W tym odcinku, razem z naszym gościem - Tomkiem Łakomym - r
 publicationDate: "2021-02-04"
 audioUrl: "https://anchor.fm/s/139df89c/podcast/play/26191865/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-1-4%2F8477aef2-c5a6-09cc-be02-c57ae0c488bc.mp3"
 spotifyUrl: "https://open.spotify.com/episode/1QKlSRnYLUS917Kx4tDgQ2?si=uUk_OZHSTzWXczLM66FXYA"
-youtubeUrl: "https://www.youtube.com/channel/UCec_mTVjUKQAsSilMJ3J1TQ"
+youtubeUrl: "https://youtu.be/vt-adtW0wm8"
 slug: "/27/frontend-kiedys-i-dzis-tomasz-lakomy"
 ---
 
