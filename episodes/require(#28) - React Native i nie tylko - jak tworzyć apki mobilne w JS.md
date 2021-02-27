@@ -1,12 +1,14 @@
 ---
 title: "require(#28) - React Native, PWA i nie tylko - jak tworzyć apki mobilne w JS?"
-shortDescription: "Z roku na rok, JS'owe środowisko pozwala nam na coraz więcej. Ciekawym zastosowaniem JavaScriptu, może być na przykład tworzenie aplikacji mobilnych. Aktualnie najpopularniejszym do tego rozwiązaniem jest React Native, który w ostatnich latach zdaje się dominować rynek mobilny. W tym odcinku przyjrzymy się mu, jego alternatywom, oraz porozmawiamy trochę o PWA."
+shortDescription: "Czym jest React Native i jak działa? Czym różni się od Expo? Do czego wykorzystuje się PWA i na jakim etapie rozwoju są? Jakie są alternatywy do tych rozwiązań? Odpowiedzi na te pytania znajdziecie w najnowszym odcinku Require Podcast!"
 publicationDate: "2021-02-27"
 audioUrl: "https://anchor.fm/s/139df89c/podcast/play/27514458/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-1-27%2Fdcb895fe-2ccb-036c-2049-c9c1458b1e96.mp3"
 spotifyUrl: "https://open.spotify.com/episode/661GcDZdLy7KTsUbxsdI5J?si=fLus6qoQRS6PWYSbHWN_iQ"
 youtubeUrl: "https://www.youtube.com/channel/UCec_mTVjUKQAsSilMJ3J1TQ"
 slug: "/28/react-native-i-nie-tylko"
 ---
+
+Czym jest React Native i jak działa? Czym różni się od Expo? Do czego wykorzystuje się PWA i na jakim etapie rozwoju są? Jakie są alternatywy do tych rozwiązań? Odpowiedzi na te pytania znajdziecie w najnowszym odcinku Require Podcast!
 
 ## Linki
 
