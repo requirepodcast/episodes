@@ -16,6 +16,7 @@ slug: "/28/react-native-i-nie-tylko"
   - https://reactnative.dev/showcase
   - https://instagram-engineering.com/react-native-at-instagram-dd828a9a90c7
   - https://blog.discord.com/how-discord-achieves-native-ios-performance-with-react-native-390c84dcd502
+- Expo https://expo.io/
 - NativeScript https://nativescript.org/
 - Capacitor https://capacitorjs.com/
   - https://cordova.apache.org/
