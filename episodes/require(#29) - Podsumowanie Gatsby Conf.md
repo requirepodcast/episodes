@@ -4,7 +4,7 @@ shortDescription: "W dniach 2-3 marca, odbyła się konferencja Gatsby Conf. W t
 publicationDate: "2021-03-07"
 audioUrl: "https://anchor.fm/s/139df89c/podcast/play/28230701/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-2-7%2Fed74ea4c-59a9-9eba-938e-455f816b6086.mp3"
 spotifyUrl: "https://open.spotify.com/episode/661GcDZdLy7KTsUbxsdI5J?si=fLus6qoQRS6PWYSbHWN_iQ"
-youtubeUrl: "https://www.youtube.com/watch?v=Hi2l5sxfPB8&t=20s&ab_channel=RequirePodcast"
+youtubeUrl: "https://www.youtube.com/watch?v=Hi2l5sxfPB8&ab_channel=RequirePodcast"
 slug: "/29/podsumowanie-gatsby-conf"
 ---
 
