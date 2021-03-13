@@ -1,11 +1,11 @@
 ---
-title: "require(#30) - Podsumowanie Gatsby Conf"
+title: "require(#30) - Q&A, urodziny Require Podcast!"
 shortDescription: "W urodzinowym odcinku Require Podcast, odpowiadamy na pytania zadane nam przez słuchaczy. Od koloru naszych skarpetek, przez nasze hobby poza IT, to jak tworzymy podcast, pracę jako programista, osoby które chcielibyśmy zaprosić do podcastu, po JavaScript i inne technologie!"
 publicationDate: "2021-03-13"
 audioUrl: "https://anchor.fm/s/139df89c/podcast/play/28867871/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-2-13%2F3da6af52-a3bb-cca1-cc8f-1d3cfd8bcbad.mp3"
 spotifyUrl: "https://open.spotify.com/show/55IXMbPmncm67FA5ZAydtL?si=E4VMK4kCRtWPVDF8mqPygA"
 youtubeUrl: "https://require.podcast.gq/youtube"
-slug: "/29/podsumowanie-gatsby-conf"
+slug: "/30/urodziny-require-podcast"
 ---
 
 W urodzinowym odcinku Require Podcast, odpowiadamy na pytania zadane nam przez słuchaczy. Od koloru naszych skarpetek, przez nasze hobby poza IT, to jak tworzymy podcast, pracę jako programista, osoby które chcielibyśmy zaprosić do podcastu, po JavaScript i inne technologie!
