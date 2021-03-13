@@ -13,9 +13,15 @@ W urodzinowym odcinku Require Podcast, odpowiadamy na pytania zadane nam przez s
 ## ❓ Pytania
 
 - 1:47 - Jakich aplikacji (oprócz systemowych) używacie najczęściej?
+  - https://www.notion.so/
+  - https://parcelapp.net/
+  - https://www.spotify.com/
+  - https://workingcopyapp.com/
 - 5:00 - Czy jest jakiś ekosystem, który wydaje wam się równie interesujący co cały ekosystem w okół JavaScript?
+  - https://elixir-lang.org/
 - 6:40 - Praca w programowaniu jako szesnastolatek? Czy to możliwe?
 - 7:54 - What hardware do you use for recording? What is the process of delivering a podcast (from preparing to publishing)? What software do you use?
+  - https://siekierski.me/#/uses
 - 14:03 - Wolelibyście walczyć z kaczką wielkości konia, czy z 100 koni wielkości kaczek?
 - 15:27 - Ile średnio godzin poza pracą spędzacie programując? Macie jakieś zajawki poza IT?
 - 19:37 - Czy planujecie materiały o JSowym backendzie lub narzędziach takich jak Electron?
@@ -28,9 +34,13 @@ W urodzinowym odcinku Require Podcast, odpowiadamy na pytania zadane nam przez s
 - 28:10 - Myślicie że obecnie ciężko jest dostać pierwszą pracę jako junior front-end dev?
 - 29:39 - Kiedy Require Podcast and friends?
 - 30:57 - Flutter czy React Native?
+  - https://require.podcast.gq/archive/28/react-native-i-nie-tylko
 - 32:51 - Po jednej wadzie i zalecie Windowsa, MacOS i Linuxa (ulubione distro) i dlaczego Linux jest najlepszy?
 - 37:21 - Co sądzicie o stacku MERN? Jakie są wasze doświadczenia? Może jakiś odcinek o popularnych stackach?
+  - https://www.fastify.io/
+  - https://nestjs.com/
 - 40:49 - Jakie treki lecą kiedy piszecie kod?
+  - https://open.spotify.com/playlist/3tJ7YBGjwsnEChW5nunt96
 - 42:02 - Od ilu lat interesujecie się branżą IT?
 - 42:55 - Dlaczego OOP w JS ssie?
 - 46:38 - Ok, no dobra, jaki macie kolor skarpetek?
