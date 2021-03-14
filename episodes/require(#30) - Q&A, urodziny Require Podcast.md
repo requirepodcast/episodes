@@ -12,35 +12,35 @@ W urodzinowym odcinku Require Podcast, odpowiadamy na pytania zadane nam przez s
 
 ## ❓ Pytania
 
-- 1:47 - Jakich aplikacji (oprócz systemowych) używacie najczęściej?
+- <TimestampLink>1:47</TimestampLink> - Jakich aplikacji (oprócz systemowych) używacie najczęściej?
   - https://www.notion.so/
   - https://parcelapp.net/
   - https://www.spotify.com/
   - https://workingcopyapp.com/
-- 5:00 - Czy jest jakiś ekosystem, który wydaje wam się równie interesujący co cały ekosystem w okół JavaScript?
+- <TimestampLink>5:00</TimestampLink> - Czy jest jakiś ekosystem, który wydaje wam się równie interesujący co cały ekosystem w okół JavaScript?
   - https://elixir-lang.org/
-- 6:40 - Praca w programowaniu jako szesnastolatek? Czy to możliwe?
-- 7:54 - What hardware do you use for recording? What is the process of delivering a podcast (from preparing to publishing)? What software do you use?
+- <TimestampLink>6:40</TimestampLink> - Praca w programowaniu jako szesnastolatek? Czy to możliwe?
+- <TimestampLink>7:54</TimestampLink> - What hardware do you use for recording? What is the process of delivering a podcast (from preparing to publishing)? What software do you use?
   - https://siekierski.me/#/uses
-- 14:03 - Wolelibyście walczyć z kaczką wielkości konia, czy z 100 koni wielkości kaczek?
-- 15:27 - Ile średnio godzin poza pracą spędzacie programując? Macie jakieś zajawki poza IT?
-- 19:37 - Czy planujecie materiały o JSowym backendzie lub narzędziach takich jak Electron?
-- 20:15 - Czy rybom chce się pić? 💦🐟
-- 21:26 - Adam, po co Ci taki drogi rower?
-- 21:37 - Jak podeszlibyście do case'u strony w kilku językach - możecie wybrać Wasze ulubione narzędzie (Gatsby.js, Next.js lub inne).
-- 23:48 - Z jakim gościem (którego nie było) chcielibyście najbardziej poprowadzić podcast?
-- 26:14 - Ulubiona kawa?
-- 26:36 - Najpierw mleko czy płatki, idąc tym tropem React czy Vue?
-- 28:10 - Myślicie że obecnie ciężko jest dostać pierwszą pracę jako junior front-end dev?
-- 29:39 - Kiedy Require Podcast and friends?
-- 30:57 - Flutter czy React Native?
+- <TimestampLink>14:03</TimestampLink> - Wolelibyście walczyć z kaczką wielkości konia, czy z 100 koni wielkości kaczek?
+- <TimestampLink>15:27</TimestampLink> - Ile średnio godzin poza pracą spędzacie programując? Macie jakieś zajawki poza IT?
+- <TimestampLink>19:37</TimestampLink> - Czy planujecie materiały o JSowym backendzie lub narzędziach takich jak Electron?
+- <TimestampLink>20:15</TimestampLink> - Czy rybom chce się pić? 💦🐟
+- <TimestampLink>21:26</TimestampLink> - Adam, po co Ci taki drogi rower?
+- <TimestampLink>21:37</TimestampLink> - Jak podeszlibyście do case'u strony w kilku językach - możecie wybrać Wasze ulubione narzędzie (Gatsby.js, Next.js lub inne).
+- <TimestampLink>23:48</TimestampLink> - Z jakim gościem (którego nie było) chcielibyście najbardziej poprowadzić podcast?
+- <TimestampLink>26:14</TimestampLink> - Ulubiona kawa?
+- <TimestampLink>26:36</TimestampLink> - Najpierw mleko czy płatki, idąc tym tropem React czy Vue?
+- <TimestampLink>28:10</TimestampLink> - Myślicie że obecnie ciężko jest dostać pierwszą pracę jako junior front-end dev?
+- <TimestampLink>29:39</TimestampLink> - Kiedy Require Podcast and friends?
+- <TimestampLink>30:57</TimestampLink> - Flutter czy React Native?
   - https://require.podcast.gq/archive/28/react-native-i-nie-tylko
-- 32:51 - Po jednej wadzie i zalecie Windowsa, MacOS i Linuxa (ulubione distro) i dlaczego Linux jest najlepszy?
-- 37:21 - Co sądzicie o stacku MERN? Jakie są wasze doświadczenia? Może jakiś odcinek o popularnych stackach?
+- <TimestampLink>32:51</TimestampLink> - Po jednej wadzie i zalecie Windowsa, MacOS i Linuxa (ulubione distro) i dlaczego Linux jest najlepszy?
+- <TimestampLink>37:21</TimestampLink> - Co sądzicie o stacku MERN? Jakie są wasze doświadczenia? Może jakiś odcinek o popularnych stackach?
   - https://www.fastify.io/
   - https://nestjs.com/
-- 40:49 - Jakie treki lecą kiedy piszecie kod?
+- <TimestampLink>40:49</TimestampLink> - Jakie treki lecą kiedy piszecie kod?
   - https://open.spotify.com/playlist/3tJ7YBGjwsnEChW5nunt96
-- 42:02 - Od ilu lat interesujecie się branżą IT?
-- 42:55 - Dlaczego OOP w JS ssie?
-- 46:38 - Ok, no dobra, jaki macie kolor skarpetek?
+- <TimestampLink>42:02</TimestampLink> - Od ilu lat interesujecie się branżą IT?
+- <TimestampLink>42:55</TimestampLink> - Dlaczego OOP w JS ssie?
+- <TimestampLink>46:38</TimestampLink> - Ok, no dobra, jaki macie kolor skarpetek?
