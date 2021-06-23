@@ -3,7 +3,7 @@ title: "require(#31) - Testowanie na frontendzie feat. Przemysław Paczoski"
 shortDescription: "W tym odcinku, Adam rozmawia z Przemysławem Paczoskim, na temat testowania frontendu. Odcinek może stanowić swoiste wprowadzenie dla kompletnie zielonych do świata testowania, jak i ciekawą rozmowę na temat aktualnych rozwiązań w świecie testów."
 publicationDate: "2021-06-23"
 audioUrl: "https://anchor.fm/s/139df89c/podcast/play/36044870/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-5-23%2Fcdd40b64-87d7-085e-f75c-b2dd145ebac6.mp3"
-spotifyUrl: "https://open.spotify.com/show/55IXMbPmncm67FA5ZAydtL?si=CFxi7qJpQVCsb5cXWpqUuw&dl_branch=1"
+spotifyUrl: "https://open.spotify.com/episode/4p9sSGLSAtkp0GDg4mu4dU?si=8ccedab416834c80"
 youtubeUrl: "https://www.youtube.com/channel/UCec_mTVjUKQAsSilMJ3J1TQ?sub_confirmation=1"
 slug: "/31/testowanie-na-frontendzie"
 ---
