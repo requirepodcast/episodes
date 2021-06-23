@@ -48,11 +48,11 @@ Rozmawialiśmy między innymi o tym po co testować; kim jest QA, a kim tester; 
   </li>
   <li><TimestampLink>57:13</TimestampLink> - Materiały do nauki o testowaniu
     <ul>
-      <li><Link>https://medium.com/slalom-build/quality-engineer-learning-roadmap-fddfcb77409e</Link></ul>
-      <li><Link>https://www.youtube.com/watch?v=IM8vqQ_Rrqs</Link></ul>
-      <li><Link>https://www.youtube.com/watch?v=V-o8WzlwKmM</Link></ul>
-      <li><Link>https://www.guru99.com/</Link></ul>
-      <li><Link>https://kodziak.com/</Link></ul>
+      <li><Link>https://medium.com/slalom-build/quality-engineer-learning-roadmap-fddfcb77409e</Link></li>
+      <li><Link>https://www.youtube.com/watch?v=IM8vqQ_Rrqs</Link></li>
+      <li><Link>https://www.youtube.com/watch?v=V-o8WzlwKmM</Link></li>
+      <li><Link>https://www.guru99.com/</Link></li>
+      <li><Link>https://kodziak.com/</Link></li>
     </ul>
   </li>
 </ul>
